@@ -1,1 +1,3 @@
 # imropt productie
+
+IMROPT is het informatiemodel voor het opstellen en uitwisselen van planteksten van digitale plannen, visies en besluiten voor de ruimtelijke ordening (omgevingsinstrumenten). Het gaat hierbij om instrumenten zoals die voor de ruimtelijke ordening in de Wro en Wabo gedefinieerd zijn en op de verschillende administratieve niveaus gemaakt worden: gemeentelijk, provinciaal en nationaal.
